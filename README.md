@@ -1,0 +1,6 @@
+Developed an automated phishing detection system using a RoBERTa-based model to classify emails as malicious or legitimate. The system includes a VirusTotal link scanner to check URLs in emails against threat-intelligence feeds, and an additional defense-in-depth keyword layer that flags emails as malicious if suspicious keywords are found — serving as an extra verification step for borderline or unknown cases. Designed for real-time email analysis, it combines machine learning, threat intelligence, and heuristic rules to improve detection accuracy and reduce false negatives.
+
+<img width="539" height="563" alt="Screenshot 2025-11-17 222151" src="https://github.com/user-attachments/assets/a1d97f7e-74f0-4bca-aa7a-66673ce40916" />
+<img width="540" height="563" alt="Screenshot 2025-11-17 222135" src="https://github.com/user-attachments/assets/ea3f9fb5-4470-4165-a3b7-02e0c95b3226" />
+<img width="540" height="555" alt="Screenshot 2025-11-17 222109" src="https://github.com/user-attachments/assets/ab779e3c-2bd3-449f-a262-0c4cdb701525" />
+<img width="539" height="554" alt="Screenshot 2025-11-17 222051" src="https://github.com/user-attachments/assets/00361976-91cd-458d-afd1-118ab662cdc3" />
